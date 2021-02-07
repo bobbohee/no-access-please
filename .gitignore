@@ -1,0 +1,12 @@
+# jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# jekyll bundle
+vendor/
+.bundle/
+
+# jetbrains
+.idea/
