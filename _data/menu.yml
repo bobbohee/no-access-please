@@ -9,18 +9,18 @@ entries:
       show_more_text: see archive...
       show_more_url: archive
 
-  - title: example
+  - title: javascript
     post_list:
       limit: 5
-      category: example
+      category: javascript
       show_more: true
       show_more_text: see archive...
       show_more_url: archive
 
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+  - title: openlayers
+    post_list:
+      limit: 5
+      category: openlayers
+      show_more: true
+      show_more_text: see archive...
+      show_more_url: archive
