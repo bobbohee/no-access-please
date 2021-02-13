@@ -52,14 +52,18 @@ h6 { font-size: 1.1rem; }
 
 hr { margin: 2rem 0; }
 
-p { margin: 1rem 0; }
+p {
+  margin: 1rem 0;
+  word-break: break-all;
+}
 
 li { margin: 0.4rem 0; }
 
 *:target { background: yellow; }
 
 .w {
-  width: fit-content;
+  // 포스트 넘침
+  // width: fit-content;
   max-width: 640px;
   margin: 0 auto;
   padding: 4rem 2rem;
@@ -108,7 +112,9 @@ blockquote {
   border: thin solid black;
   padding: 1rem;
 
-  p { margin: 0; }
+  p {
+    margin: 0;
+  }
 }
 
 img {
