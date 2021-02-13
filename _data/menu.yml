@@ -32,3 +32,11 @@ entries:
       show_more: true
       show_more_text: see archive...
       show_more_url: archive
+
+  - title: jekyll
+    post_list:
+      limit: 5
+      category: jekyll
+      show_more: true
+      show_more_text: see archive...
+      show_more_url: archive
