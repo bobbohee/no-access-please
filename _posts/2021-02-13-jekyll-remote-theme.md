@@ -23,9 +23,9 @@ If you have any questions you can submit a request at https://support.github.com
 
 # 원인
 
-현재 이 jekyll 블로그는 [no-style-please](https://github.com/riggraz/no-style-please) 테마를 사용하고 있는데 이 테마가 github에서 지원하는 정식 테마가 아니기 때문에 경고 메일이 날라온 것 같다. 
+현재 이 jekyll 블로그는 [no-style-please](https://github.com/riggraz/no-style-please){:target="_blank"} 테마를 사용하고 있는데 이 테마가 github에서 지원하는 정식 테마가 아니기 때문에 경고 메일이 날라온 것 같다. 
 
-👉 [github에서 지원하는 테마보기](https://pages.github.com/themes/)
+👉 [github에서 지원하는 테마보기](https://pages.github.com/themes/){:target="_blank"}
 
 # 해결
 
@@ -37,4 +37,4 @@ remote_theme: riggraz/no-style-please
 
 # 참고 사이트
 
-[https://dreamgonfly.github.io/blog/jekyll-remote-theme](https://dreamgonfly.github.io/blog/jekyll-remote-theme)
+[https://dreamgonfly.github.io/blog/jekyll-remote-theme](https://dreamgonfly.github.io/blog/jekyll-remote-theme){:target="_blank"}
