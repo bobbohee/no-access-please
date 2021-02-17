@@ -16,6 +16,14 @@ entries:
       show_more: true
       show_more_text: see archive...
       show_more_url: archive
+  
+  - title: git
+    post_list:
+      limit: 5
+      category: git
+      show_more: true
+      show_more_text: see archive...
+      show_more_url: archive
 
   - title: ubuntu
     post_list:
