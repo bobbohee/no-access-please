@@ -25,6 +25,14 @@ entries:
       show_more_text: see archive...
       show_more_url: archive
 
+  - title: odoo
+    post_list:
+      limit: 5
+      category: odoo
+      show_more: true
+      show_more_text: see archive...
+      show_more_url: archive
+
   - title: ubuntu
     post_list:
       limit: 5
