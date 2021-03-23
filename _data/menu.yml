@@ -41,6 +41,14 @@ entries:
       show_more_text: see archive...
       show_more_url: archive
 
+  - title: history
+    post_list:
+      limit: 5
+      category: history
+      show_more: true
+      show_more_text: see archive...
+      show_more_url: archive
+
   - title: openlayers
     post_list:
       limit: 5
