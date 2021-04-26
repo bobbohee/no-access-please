@@ -16,6 +16,14 @@ entries:
       show_more: true
       show_more_text: see archive...
       show_more_url: archive
+
+  - title: mac
+    post_list:
+      limit: 5
+      category: mac
+      show_more: true
+      show_more_text: see archive...
+      show_more_url: archive
   
   - title: git
     post_list:
