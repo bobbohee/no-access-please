@@ -2,7 +2,7 @@
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 .highlight, .highlight .w {
-  color: #fbf1c7;
+  color: inherit;
   background-color: #282828;
 }
 .highlight .err {
@@ -21,10 +21,10 @@
   color: #fb4934;
 }
 .highlight .o, .highlight .ow {
-  color: #fbf1c7;
+  color: inherit;
 }
 .highlight .p, .highlight .pi {
-  color: #fbf1c7;
+  color: inherit;
 }
 .highlight .gi {
   color: #b8bb26;

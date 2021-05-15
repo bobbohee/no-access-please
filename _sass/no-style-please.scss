@@ -26,9 +26,10 @@ html { height: 100%; }
 body {
   color: black;
   font-family: monospace;
-  font-size: 1.3rem;
+  font-size: 1.0rem;
   line-height: 1.7;
   margin: 0;
+  min-width: 320px;
   min-height: 100%;
   letter-spacing: 0.5px;
   word-spacing: -3px;
@@ -85,9 +86,9 @@ table, th, td {
 }
 
 code {
-  color: #f5f5f5;
-  background-color: #262626;
-  font-size: 15px;
+  color: #313131;
+  font-size: 0.9rem;
+  background-color: #f3f3f3;
 
   &.highlighter-rouge {
     padding: 0.2em 0.4em;
@@ -108,9 +109,13 @@ div.highlighter-rouge code {
 }
 
 blockquote {
+  color: #313131;
+  font-size: 0.9rem;
   font-style: italic;
-  border: thin solid black;
   padding: 1rem;
+  margin: 1.2rem 0;
+  background-color: #f3f3f3;
+  border-radius: 5px;
 
   p {
     margin: 0;
@@ -121,4 +126,10 @@ img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
+}
+
+figcaption {
+  color: #90949a;
+  text-align: center;
+  margin: 0.6rem 0 1rem;
 }
