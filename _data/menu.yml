@@ -15,7 +15,7 @@ entries:
       category: javascript
       show_more: true
       show_more_text: see archive...
-      show_more_url: archive
+      show_more_url: javascript
 
   - title: mac
     post_list:
@@ -49,21 +49,13 @@ entries:
       show_more_text: see archive...
       show_more_url: archive
 
-  - title: history
-    post_list:
-      limit: 5
-      category: history
-      show_more: true
-      show_more_text: see archive...
-      show_more_url: archive
-
   - title: openlayers
     post_list:
       limit: 5
       category: openlayers
       show_more: true
       show_more_text: see archive...
-      show_more_url: archive
+      show_more_url: openlayers
 
   - title: jekyll
     post_list:
