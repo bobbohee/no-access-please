@@ -3,7 +3,6 @@
 .highlight table pre { margin: 0; }
 .highlight, .highlight .w {
   color: inherit;
-  background-color: #282828;
 }
 .highlight .err {
   color: #fb4934;
