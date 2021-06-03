@@ -29,7 +29,10 @@ $ git remote update
 remote 브랜치에 새로 추가되거나 삭제된 브랜치 정보를 최신으로 업데이트할 때는 아래 명령어를 사용해야한다.
 
 ```bash
-git remote prune origin
+$ git remote prune origin
+Pruning origin
+URL: https://github.com/foo/bar.git
+ * [pruned] origin/develop_purchase_view
 ```
 
 <br>
