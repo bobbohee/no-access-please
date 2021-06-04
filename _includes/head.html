@@ -16,9 +16,12 @@
 
   <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
 
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
   <!-- syntax -->
-  <link rel="stylesheet" href="{{ "/assets/css/syntax.css" | relative_url }}" />
+  <link rel="stylesheet" href="{{ "/assets/lib/highlight.js-11.0.0/ascetic.css" | relative_url }}">
+  <script src="{{ "/assets/lib/highlight.js-11.0.0/highlight.min.js" | relative_url }}"></script>
+  <script>hljs.highlightAll();</script>
+
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
 
   <!-- favicon -->
   <link rel="apple-touch-icon" sizes="120x120" href="{{ "/assets/image/favicon/apple-touch-icon.png" | relative_url }}">
