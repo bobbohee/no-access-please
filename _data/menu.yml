@@ -39,7 +39,7 @@ entries:
       category: odoo
       show_more: true
       show_more_text: see archive...
-      show_more_url: archive
+      show_more_url: odoo
 
   - title: ubuntu
     post_list:
