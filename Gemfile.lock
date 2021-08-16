@@ -64,10 +64,11 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.7)
 
 PLATFORMS
+  universal-darwin-19
   universal-darwin-20
 
 DEPENDENCIES
   no-style-please!
 
 BUNDLED WITH
-   2.2.3
+   2.2.25
