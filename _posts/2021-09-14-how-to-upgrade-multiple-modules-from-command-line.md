@@ -58,6 +58,10 @@ Usage: odoo-bin [options]
 odoo-bin: error: unrecognized parameters: 'module_A, module_B, module_C'
 ```
 
+## TMI
+
+모듈 업데이트가 안됐을 경우, db_name을 지정했는지 확인해본다.
+
 # 참고
 
 [https://www.odoo.com/documentation/14.0/developer/misc/other/cmdline.html?highlight=command%20line#cmdoption-odoo-bin-u](https://www.odoo.com/documentation/14.0/developer/misc/other/cmdline.html?highlight=command%20line#cmdoption-odoo-bin-u){:target="_blank"}
