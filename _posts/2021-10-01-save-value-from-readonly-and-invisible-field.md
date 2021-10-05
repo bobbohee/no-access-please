@@ -43,7 +43,7 @@ vals = {
 
 # 해결
 
-default로 설정해둔 4M 코드를 수정하지 못하게 하기 위해 readonly 옵션을 주었는데, Odoo에서 readonly 필드는 저장하지 않는다.
+default로 설정해둔 4M 코드를 수정하지 못하게 하기 위해 readonly 옵션을 주었는데, Odoo에서 readonly 필드는 저장하지 않는다. (invisible도 마찬가지!)
 
 어떻게 생각해보면 당연한 것일수도 있다. 사용자가 값을 입력하지 못하는데...
 
@@ -70,7 +70,6 @@ vals = {
     'four_m_qty': 20,
 }
 ```
-
 
 # 참고
 
