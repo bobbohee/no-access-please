@@ -1,6 +1,6 @@
 ---
 layout: post
-category: linux 
+category: terminal
 ---
 
 # 해결

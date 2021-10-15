@@ -1,6 +1,6 @@
 ---
 layout: post
-category: git
+category: python
 ---
 
 # 문제

@@ -9,30 +9,6 @@ entries:
       show_more_text: see archive...
       show_more_url: archive
 
-  - title: javascript
-    post_list:
-      limit: 5
-      category: javascript
-      show_more: true
-      show_more_text: see archive...
-      show_more_url: javascript
-
-  - title: mac
-    post_list:
-      limit: 5
-      category: mac
-      show_more: true
-      show_more_text: see archive...
-      show_more_url: archive
-  
-  - title: git
-    post_list:
-      limit: 5
-      category: git
-      show_more: true
-      show_more_text: see archive...
-      show_more_url: archive
-
   - title: odoo
     post_list:
       limit: 5
@@ -41,13 +17,29 @@ entries:
       show_more_text: see archive...
       show_more_url: odoo
 
-  - title: ubuntu
+  - title: terminal
     post_list:
       limit: 5
-      category: ubuntu
+      category: terminal
       show_more: true
       show_more_text: see archive...
-      show_more_url: archive
+      show_more_url: terminal
+
+  - title: git
+    post_list:
+      limit: 5
+      category: git
+      show_more: true
+      show_more_text: see archive...
+      show_more_url: git
+
+  - title: javascript
+    post_list:
+      limit: 5
+      category: javascript
+      show_more: true
+      show_more_text: see archive...
+      show_more_url: javascript
 
   - title: openlayers
     post_list:
@@ -57,26 +49,10 @@ entries:
       show_more_text: see archive...
       show_more_url: openlayers
 
-  - title: jekyll
-    post_list:
-      limit: 5
-      category: jekyll
-      show_more: true
-      show_more_text: see archive...
-      show_more_url: archive
-
-  - title: rmate
-    post_list:
-      limit: 5
-      category: rmate
-      show_more: true
-      show_more_text: see archive...
-      show_more_url: archive
-
   - title: etc
     post_list:
       limit: 5
       category: etc
       show_more: true
       show_more_text: see archive...
-      show_more_url: archive
+      show_more_url: etc

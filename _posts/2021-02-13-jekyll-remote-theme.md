@@ -1,6 +1,6 @@
 ---
 layout: post
-category: jekyll 
+category: etc
 ---
 
 # 문제

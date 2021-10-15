@@ -1,6 +1,6 @@
 ---
 layout: post
-category: mac 
+category: etc
 ---
 
 # 문제

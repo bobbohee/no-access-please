@@ -1,6 +1,6 @@
 ---
 layout: post
-category: ubuntu 
+category: terminal
 ---
 
 # 문제

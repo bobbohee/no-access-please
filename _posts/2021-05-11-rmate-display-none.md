@@ -1,6 +1,6 @@
 ---
 layout: post
-category: rmate 
+category: etc
 ---
 
 # 문제
