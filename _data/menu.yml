@@ -33,6 +33,14 @@ entries:
       show_more_text: see archive...
       show_more_url: git
 
+  - title: python
+    post_list:
+      limit: 5
+      category: python
+      show_more: true
+      show_more_text: see archive...
+      show_more_url: python
+
   - title: javascript
     post_list:
       limit: 5
