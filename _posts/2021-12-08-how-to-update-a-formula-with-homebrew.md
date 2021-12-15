@@ -20,6 +20,26 @@ brew로 설치해야 삭제할 때도 깔끔하게 삭제할 수 있기 때문�
 $ brew install iterm2
 ```
 
+### 🤔 ???
+
+소스트리를 업데이트 해야 해서 방법1로 시도를 해보니, 업데이트가 되지 않고 이미 설치된 cask라며 경고 메세지를 주었다.
+
+설치된 homebrew에 버전에 따라 다를 수 있는 것 같다.
+
+```bash
+$ brew install sourcetree
+Running `brew update --preinstall`...
+==> Auto-updated Homebrew!
+Updated 1 tap (homebrew/core).
+==> Updated Formulae
+Updated 3 formulae.
+
+Warning: Cask 'sourcetree' is already installed.
+
+To re-install sourcetree, run:
+  brew reinstall sourcetree
+```
+
 ## 방법2
 
 ```bash
