@@ -41,6 +41,14 @@ entries:
       show_more_text: see archive...
       show_more_url: python
 
+  - title: django
+    post_list:
+      limit: 5
+      category: django
+      show_more: true
+      show_more_text: see archive...
+      show_more_url: django
+
   - title: javascript
     post_list:
       limit: 5
