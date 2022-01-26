@@ -7,7 +7,7 @@ category: etc
 
 Datagrip에서 `stock_move_line_lot_name_uniq`(lot_name에 unique 제약 조건)을 강제로 삭제하려고 하니, 오류가 발생하며 삭제되지 않았다.
 
-![](/no-access-please/assets/image/2022-01-21-cannot-drop-index-because-unique-constraint-requires-it-postgres/1.png)
+![postgres 제약 조건 삭제 오류](/no-access-please/assets/image/2022-01-21-cannot-drop-index-because-unique-constraint-requires-it-postgres/1.png)
 
 # 해결
 
