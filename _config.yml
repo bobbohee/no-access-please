@@ -1,9 +1,9 @@
-title: no access, please! # name of the site
-author: Bohee Park # name of site's author
-email: parkbohee0705@gmail.com # email of site's author
-url: https://park-bohee.github.io # root address of the site
-baseurl: '/no-access-please' # subpath of the site, e.g. '/blog'
-description: > # description of the site (multiple lines allowed)
+title: no access, please!         # name of the site
+author: Park Bohee                # name of site's author
+email: parkbohee0705@gmail.com    # email of site's author
+url: https://bobbohee.github.io   # root address of the site
+baseurl: '/no-access-please'      # subpath of the site, e.g. '/blog'
+description: >                    # description of the site (multiple lines allowed)
   ✏️ This is private dev note.
 
 permalink: /:slug.html
@@ -15,10 +15,10 @@ favicon: '/assets/image/favicon/favicon.ico' # name+extension of favicon (which 
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: 'auto' # can be 'light', 'dark' or 'auto'
-  back_home_text: '..' # customize text for homepage link in post layout
-  date_format: '%Y-%m-%d' # customize how date is formatted
-  show_description: true # show blog description in home page
+  appearance: 'auto'        # can be 'light', 'dark' or 'auto'
+  back_home_text: '..'      # customize text for homepage link in post layout
+  date_format: '%Y-%m-%d'   # customize how date is formatted
+  show_description: true    # show blog description in home page
 
 markdown: kramdown
 
