@@ -40,6 +40,6 @@ ex) story 모델의 경우, `storys` -> `stories`
 
 # 참고
 
-[https://stackoverflow.com/questions/43239875/how-i-can-change-the-default-table-name-in-the-admin-interface-in-django](https://stackoverflow.com/questions/43239875/how-i-can-change-the-default-table-name-in-the-admin-interface-in-django)
+[https://stackoverflow.com/questions/43239875/how-i-can-change-the-default-table-name-in-the-admin-interface-in-django](https://stackoverflow.com/questions/43239875/how-i-can-change-the-default-table-name-in-the-admin-interface-in-django){:target="_blank"}
 
-[https://docs.djangoproject.com/en/3.2/ref/models/options/#verbose-name](https://docs.djangoproject.com/en/3.2/ref/models/options/#verbose-name)
+[https://docs.djangoproject.com/en/3.2/ref/models/options/#verbose-name](https://docs.djangoproject.com/en/3.2/ref/models/options/#verbose-name){:target="_blank"}
