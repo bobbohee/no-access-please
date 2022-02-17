@@ -19,7 +19,7 @@ $ scp [옵션] [keypair 파일 path] [전송할 파일 path] [원격지 ID]@[원
 ```
 
 ```bash
-$ scp keypair_odoo_ssk.pem ~/Downloads/tilon.zip bitnami@ec2-3-37-40-91.ap-northeast-2.compute.amazonaws.com:~
+$ scp -i keypair_odoo_ssk.pem ~/Downloads/tilon.zip bitnami@ec2-3-37-40-91.ap-northeast-2.compute.amazonaws.com:~
 tilon.zip                                                                                                      100% 6043     1.1MB/s   00:00
 ```
 
