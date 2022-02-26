@@ -64,6 +64,6 @@ class TCO2(models.Model):
 
 # 참고
 
-[https://www.django-rest-framework.org/api-guide/fields/#decimalfield](https://www.django-rest-framework.org/api-guide/fields/#decimalfield)
+[https://www.django-rest-framework.org/api-guide/fields/#decimalfield](https://www.django-rest-framework.org/api-guide/fields/#decimalfield){:target="_blank"}
 
-[https://stackoverflow.com/questions/49770344/the-decimal-type-field-fetch-data-become-string](https://stackoverflow.com/questions/49770344/the-decimal-type-field-fetch-data-become-string)
+[https://stackoverflow.com/questions/49770344/the-decimal-type-field-fetch-data-become-string](https://stackoverflow.com/questions/49770344/the-decimal-type-field-fetch-data-become-string){:target="_blank"}
