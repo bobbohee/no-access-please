@@ -6,7 +6,6 @@ entries:
     post_list:
       limit: 5
       show_more: true
-      show_more_text: see archive...
       show_more_url: archive
 
   - title: odoo
@@ -14,7 +13,6 @@ entries:
       limit: 5
       category: odoo
       show_more: true
-      show_more_text: see archive...
       show_more_url: odoo
 
   - title: terminal
@@ -22,7 +20,6 @@ entries:
       limit: 5
       category: terminal
       show_more: true
-      show_more_text: see archive...
       show_more_url: terminal
 
   - title: git
@@ -30,7 +27,6 @@ entries:
       limit: 5
       category: git
       show_more: true
-      show_more_text: see archive...
       show_more_url: git
 
   - title: python
@@ -38,7 +34,6 @@ entries:
       limit: 5
       category: python
       show_more: true
-      show_more_text: see archive...
       show_more_url: python
 
   - title: django
@@ -46,7 +41,6 @@ entries:
       limit: 5
       category: django
       show_more: true
-      show_more_text: see archive...
       show_more_url: django
 
   - title: javascript
@@ -54,7 +48,6 @@ entries:
       limit: 5
       category: javascript
       show_more: true
-      show_more_text: see archive...
       show_more_url: javascript
 
   - title: openlayers
@@ -62,7 +55,6 @@ entries:
       limit: 5
       category: openlayers
       show_more: true
-      show_more_text: see archive...
       show_more_url: openlayers
 
   - title: etc
@@ -70,5 +62,4 @@ entries:
       limit: 5
       category: etc
       show_more: true
-      show_more_text: see archive...
       show_more_url: etc
