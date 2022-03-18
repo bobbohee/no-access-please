@@ -35,4 +35,4 @@ class CERFilter(django_filters.FilterSet):
 
 # 추가
 
-[https://stackoverflow.com/questions/57270470/django-filter-how-to-make-multiple-fields-search-with-django-filter](https://stackoverflow.com/questions/57270470/django-filter-how-to-make-multiple-fields-search-with-django-filter)
+[https://stackoverflow.com/questions/57270470/django-filter-how-to-make-multiple-fields-search-with-django-filter](https://stackoverflow.com/questions/57270470/django-filter-how-to-make-multiple-fields-search-with-django-filter){:target="_blank"}

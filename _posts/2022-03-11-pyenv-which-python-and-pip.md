@@ -36,4 +36,4 @@ Required-by: django-cors-headers, django-excel, django-filter, django-import-exp
 
 # 참고
 
-[https://velog.io/@markyang92/python-pyenv#-pyenv-which-python](https://velog.io/@markyang92/python-pyenv#-pyenv-which-python)
+[https://velog.io/@markyang92/python-pyenv#-pyenv-which-python](https://velog.io/@markyang92/python-pyenv#-pyenv-which-python){:target="_blank"}

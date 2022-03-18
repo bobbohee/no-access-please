@@ -49,6 +49,6 @@ is_create = self._state.adding
 
 # 참고
 
-[https://stackoverflow.com/questions/907695/in-a-django-model-custom-save-method-how-should-you-identify-a-new-object](https://stackoverflow.com/questions/907695/in-a-django-model-custom-save-method-how-should-you-identify-a-new-object)
+[https://stackoverflow.com/questions/907695/in-a-django-model-custom-save-method-how-should-you-identify-a-new-object](https://stackoverflow.com/questions/907695/in-a-django-model-custom-save-method-how-should-you-identify-a-new-object){:target="_blank"}
 
-[https://stackoverflow.com/questions/57459259/does-djangos-save-create-or-update](https://stackoverflow.com/questions/57459259/does-djangos-save-create-or-update)
+[https://stackoverflow.com/questions/57459259/does-djangos-save-create-or-update](https://stackoverflow.com/questions/57459259/does-djangos-save-create-or-update){:target="_blank"}
